@@ -136,9 +136,10 @@ main {
   <body>
     <header>
       <h1 class="text">ReadMe File</h1>
-        <p>In addition to my project I will like to say that this peoject and previous ones have thought me to be more autonomous and resourceful.
-        I have learned how to manage my time, and apply it to my day to day basis with coding.
-        I have learn in such a short amount of time what I never thought to be capable of doing in my whole life time. </p>
+        <p>Hey, just wanted to share some thoughts on this project and how it's been shaping me up. It's been a real eye-opener, you know? Like, I've been getting more independent and figuring stuff out on my own. Time management? Oh man, it's become my thing now, especially with all the coding I do every day.
+        <br>
+        <br>
+And let me tell you, in just a short while, I've learned things I never even dreamed I could do. It's wild to see how far I've come in such a short time span. </p>
     </header>
     <main>
       <img id="torogoz" src="torogoz.png">
